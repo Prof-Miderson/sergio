@@ -1,0 +1,17 @@
+h1 { text-align: center;
+
+}
+ body {background-color: #ff9933
+ }
+
+ h2 {border-width: 15px;
+ 	border-style: solid;
+ 	border-color: #ff0000;
+ 	padding: 5px;
+ 	margin: 10%;
+ }
+
+#imagem-principal { width: 20%;
+
+}
+
